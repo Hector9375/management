@@ -1,3 +1,6 @@
+## Management System
+React 와 Node.js 로 구성된 프로젝트 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
